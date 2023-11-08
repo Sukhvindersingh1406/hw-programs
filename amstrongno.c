@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+
+
 int main() {
     int num, originalNum, remainder, n = 0;
     float result = 0.0;
